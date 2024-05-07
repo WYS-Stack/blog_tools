@@ -1,0 +1,48 @@
+[2023-07-29 00:00:09][ERROR][1line369] HTTPSConnectionPool(host='s1.ax1x.com', port=443): Max retries exceeded with url: /2022/11/27/zUZ528.png (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+[2023-07-29 00:00:09][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/27/zUZ528.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:00:09][ERROR][1line369] HTTPSConnectionPool(host='s1.ax1x.com', port=443): Max retries exceeded with url: /2022/11/27/zUekI1.png (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+[2023-07-29 00:00:09][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/27/zUekI1.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:00:09][ERROR][1line369] HTTPSConnectionPool(host='s1.ax1x.com', port=443): Max retries exceeded with url: /2022/11/28/zawXlT.png (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+[2023-07-29 00:00:09][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawXlT.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:00:09][ERROR][1line369] HTTPSConnectionPool(host='s1.ax1x.com', port=443): Max retries exceeded with url: /2022/11/28/za0kp6.png (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+[2023-07-29 00:00:09][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0kp6.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:00:09][ERROR][1line369] HTTPSConnectionPool(host='s1.ax1x.com', port=443): Max retries exceeded with url: /2022/11/28/za0Pt1.png (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+[2023-07-29 00:00:09][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0Pt1.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:00:10][ERROR][1line369] HTTPSConnectionPool(host='s1.ax1x.com', port=443): Max retries exceeded with url: /2022/11/28/zawcFI.png (Caused by SSLError(SSLError(1, '[SSL: KRB5_S_TKT_NYV] unexpected eof while reading (_ssl.c:1091)')))
+[2023-07-29 00:00:10][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawcFI.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:02:39][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:02:39][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/27/zUZ528.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:02:39][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:02:39][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/27/zUekI1.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:02:40][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:02:40][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawXlT.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:02:41][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:02:41][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0kp6.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:02:41][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:02:41][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0Pt1.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:02:42][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:02:42][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawcFI.png，至：/Users/wanghan/Desktop/code/blog/source/_posts/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md
+[2023-07-29 00:26:44][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:26:44][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/27/zUZ528.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/zUZ528.png
+[2023-07-29 00:26:44][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:26:44][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/27/zUekI1.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/zUekI1.png
+[2023-07-29 00:26:44][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:26:44][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawXlT.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/zawXlT.png
+[2023-07-29 00:26:45][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:26:45][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0kp6.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/za0kp6.png
+[2023-07-29 00:26:47][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:26:47][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0Pt1.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/za0Pt1.png
+[2023-07-29 00:26:48][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:26:48][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawcFI.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/zawcFI.png
+[2023-07-29 00:29:45][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:29:45][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0kp6.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/
+[2023-07-29 00:29:47][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:29:47][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0Pt1.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/
+[2023-07-29 00:29:47][ERROR][1line369] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:29:47][ERROR][1line370] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawcFI.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/
+[2023-07-29 00:36:03][ERROR][1line374] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:36:03][ERROR][1line375] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0kp6.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/
+[2023-07-29 00:36:03][ERROR][1line374] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:36:03][ERROR][1line375] 请手动下载图片：https://s1.ax1x.com/2022/11/28/za0Pt1.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/
+[2023-07-29 00:36:04][ERROR][1line374] ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[2023-07-29 00:36:04][ERROR][1line375] 请手动下载图片：https://s1.ax1x.com/2022/11/28/zawcFI.png，至：/Users/wanghan/Desktop/图片/blog/Hexo/报错（解决方案）/Vercel 被墙后国内无法访问的解决方案.md/

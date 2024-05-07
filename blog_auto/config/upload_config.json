@@ -1,0 +1,8 @@
+{
+  "七牛云": {
+    "access_key": "f90ZO-fiVpnEJtTn-WnpY_-pRp95iaLJTWInw7b5",
+    "secret_key": "_ny55MNVE9qlF3KnZZsuDCy9VugnwgAXx_7CSFXq",
+    "qiniu_domain_name": "images.cherain-wh.cloud",
+    "bucket": "cherain-image"
+  }
+}

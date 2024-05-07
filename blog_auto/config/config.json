@@ -1,0 +1,53 @@
+{
+    "cover": {
+        "conda": "https://images.cherain-wh.cloud/conda.png",
+        "Docker": "https://images.cherain-wh.cloud/Docker.png",
+        "git": "https://images.cherain-wh.cloud/git.png",
+        "Linux": "https://images.cherain-wh.cloud/Linux.png",
+        "MySQL": "https://images.cherain-wh.cloud/MySQL.png",
+        "Python": "https://images.cherain-wh.cloud/Python.png",
+        "Ubuntu": "https://images.cherain-wh.cloud/Ubuntu.png",
+        "Redis": "https://images.cherain-wh.cloud/Redis.png",
+        "Hexo": "https://images.cherain-wh.cloud/Hexo.png",
+        "App": "https://images.cherain-wh.cloud/App.png",
+        "外区": "https://images.cherain-wh.cloud/%E5%A4%96%E5%8C%BA.png",
+        "带货直播": "https://images.cherain-wh.cloud/%E5%B8%A6%E8%B4%A7%E7%9B%B4%E6%92%AD.png",
+        "快捷键": "https://images.cherain-wh.cloud/%E5%BF%AB%E6%8D%B7%E9%94%AE.png",
+        "kubernetes": "https://images.cherain-wh.cloud/kubernetes.png",
+        "Web": "https://images.cherain-wh.cloud/Web.png",
+        "Mac": "https://images.cherain-wh.cloud/Mac.png",
+        "MongoDB": "https://images.cherain-wh.cloud/MongoDB.png"
+    },
+    "Unexecuted_files": [
+        "/Users/wanghan/Desktop/code/blog/source/_posts/.DS_Store",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/数据解析/matplotlib字体/simhei.ttf",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/数据解析/matplotlib字体/simsun.ttc",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/数据解析/matplotlib字体/SourceHanSansSC-Bold.otf",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/数据解析/matplotlib/绘制风向杆.py",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/数据解析/pandas/练习/将十六进制转为十进制后统计数据（附件）/excel1.xlsx",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/数据解析/pandas/练习/将十六进制转为十进制后统计数据（附件）/机器人动态头主控与电机之间的通讯解析.docx",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/模块/scheduler定时任务/timed_task.py",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/带货直播/.DS_Store",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/.DS_Store",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/模块/.DS_Store",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/MySQL/.DS_Store",
+        "/Users/wanghan/Desktop/code/blog/source/_posts/Python/内置函数/.DS_Store"
+    ],
+    "ignore_files": [
+        "_loonflow.md",
+        "_项目文档.md",
+        "_工作内容.md",
+        "_博客笔记.md",
+        "_本地信息.md",
+        "_理论.txt",
+        "_点赞程序.md",
+        "_EmmaMolly产品场景描述.md",
+        "_EmmaMolly话术.md",
+        "_EmmaMolly晶石来源.md",
+        "_EmmaMolly开场白.md",
+        "_EmmaMolly香味场景.md",
+        "_EmmaMolly香味描述.md",
+        "_香薰.md",
+        "_自动评论.md"
+    ]
+}

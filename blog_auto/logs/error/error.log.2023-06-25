@@ -1,0 +1,14 @@
+[2023-06-25 23:09:31][ERROR][1line209] list index out of range
+[2023-06-25 23:15:40][ERROR][1line212] None
+[2023-06-25 23:17:06][ERROR][1line208] None
+[2023-06-25 23:17:29][ERROR][1line210] None
+[2023-06-25 23:39:31][ERROR][1line208] None
+[2023-06-25 23:39:31][ERROR][1line208] None
+[2023-06-25 23:39:31][ERROR][1line208] None
+[2023-06-25 23:39:31][ERROR][1line208] None
+[2023-06-25 23:39:31][ERROR][1line208] None
+[2023-06-25 23:41:47][ERROR][1line208] Traceback (most recent call last):
+  File "/Users/wanghan/Desktop/code/project_test/youdao_tools/youdao_ad/youdao_filename.py", line 179, in read_file
+    print(content[99999])
+IndexError: list index out of range
+
